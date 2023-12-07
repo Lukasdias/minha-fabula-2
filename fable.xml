@@ -1,6 +1,5 @@
 <fable>
-	<page>
-  
-    
+	<page background="0">
+      <agent text="meu texto" x="0" y="50" color="blue" />
   </page>
 </fable>
